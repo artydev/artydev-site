@@ -9,7 +9,7 @@ layout: layouts/post.njk
 
 Earlier you added a new post and it appeared at the end of the list–if you're keeping a blog you probably want newer posts to appear first! Let's tweak the Eleventy config and use this to learn how you can customize your site build.
 
-### Change the order of posts
+### Change the order of posts !!!
 
 Open any of the blog posts in `/posts`. In the front matter, each one has a `date` property we can use to specify the order posts appear in the site.
 
